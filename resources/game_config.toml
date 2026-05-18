@@ -264,19 +264,19 @@ dev_tools = false
     senior = 1
 
   [pregnancy.four_kit_possibility]
-    "young adult" = 12
-    adult = 8
-    "senior adult" = 2
+    "young adult" = 0
+    adult = 0
+    "senior adult" = 0
     senior = 0
 
   [pregnancy.five_kit_possibility]
-    "young adult" = 6
-    adult = 2
+    "young adult" = 0
+    adult = 0
     "senior adult" = 0
     senior = 0
 
   [pregnancy.max_kit_possibility]
-    "young adult" = 2
+    "young adult" = 0
     adult = 0
     "senior adult" = 0
     senior = 0
