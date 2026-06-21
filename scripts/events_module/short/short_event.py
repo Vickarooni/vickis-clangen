@@ -227,7 +227,7 @@ class ShortEvent:
         self.dead_cat_objects.clear()
 
         if other_clan:
-            self.other_clan_name = i18n.t("general.clan", name=other_clan.name)
+            self.other_clan_name = other_clan.name
 
         self.all_involved_cat_ids.append(self.main_cat.ID)
 
@@ -598,7 +598,7 @@ class ShortEvent:
                     game.clan.leader_lives -= 1
 
                 cat.die(body)
-                self.additional_event_text = get_leader_life_notice()
+                self.additional_event_text = get_leader_life_notice(cat.name)
 
             else:
                 cat.die(body)
