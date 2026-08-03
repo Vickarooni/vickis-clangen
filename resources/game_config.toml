@@ -197,19 +197,19 @@ dev_tools = false
   [mates.poly]
     # which conditions all current mate relationships has to have towards the main cat + vice versa
     [mates.poly.current_mate_condition]
-      romance = 30
-      like = 0
-      respect = 0
-      comfort = 15
-      trust = 25
+      romance = 60
+      like = 60
+      respect = 60
+      comfort = 60
+      trust = 60
 
     # which conditions all current mate relationships has to have towards the new possible mate + vise versa
     [mates.poly.mates_to_each_other]
-      romance = 0
-      like = 15
-      respect = 0
-      comfort = 15
-      trust = 20
+      romance = 60
+      like = 60
+      respect = 60
+      comfort = 60
+      trust = 60
 
   [mates.breakup]
 
@@ -466,7 +466,7 @@ dev_tools = false
 
 [fading]
   # age that a cat will complete fading
-  age_to_fade = 202
+  age_to_fade = 1
 
   # max opacity when a cat fades
   opacity_at_fade = 20
