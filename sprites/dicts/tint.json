@@ -42,9 +42,7 @@
     "DARKBROWN": "darkbrown",
     "CHOCOLATE": "darkbrown",
     "RUST": "rust",
-    "GOLDEN-BROWN": "goldenbrown",
-    "DARKBROWN": "darkbrown",
-    "CHOCOLATE": "chocolate"
+    "FAWN": "fawn"
   },
   "possible_tints": {
     "basic": [
@@ -220,7 +218,8 @@
       "gloaming",
       "quartz",
       "night"
-    ]
+    ],
+     "fawn": ["black", "yellow", "purple", "blue", "night", "gloaming", "dilute", "cooldilute", "quartz"]
   },
   "tint_colours":
   {

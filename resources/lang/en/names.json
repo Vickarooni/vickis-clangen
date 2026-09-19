@@ -303,6 +303,11 @@
     "Night", "Shadow", "Scorch", "Midnight", "Pepper", "Pitch", "Bat", "Burnt", "Coal", "Ink", "Inky", "Murk", "Rat", "Magpie",
     "Char", "Charred", "Mulberry", "Evening", "Dark", "Ghost", "Mud", "Spider", "Shale", "Panther", "Starling", "Soot", "Wolf", "Badger", 
     "Raccoon", "Skulk"
+    ],
+    "FAWN": [
+    "Brown", "Pale", "Light", "Mouse", "Deer", "Dust", "Dusty", "Sand", "Sandy", "Bright", "Mud", "Scrub", "Velvet", "Elm", "Nut", "Fallow",
+    "Hazel", "Vole", "Branch", "Warm", "Robin", "Puma", "Umber", "Tree", "Root", "Bark", "Lion", "Birch", "Cougar", "Seed", "Fawn",
+    "Thrush", "Log"
     ]
   },
 	
@@ -393,8 +398,11 @@
     ],
     "BLACK": [
 	"shadow", "shade", "dusk", "coal", "ink", "bat", "cinder", "ghost", "night", "raven", "crow", "burn", "badger", "raccoon"
+    ],
+      "FAWN": [
+	"root", "owl", "twig", "wood", "moth", "lion", "cougar"
     ]
-  },
+    },
 
   "biome_prefixes": {
     "Forest": [

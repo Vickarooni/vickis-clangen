@@ -27,7 +27,8 @@
             "GOLDEN-BROWN": "brown",
             "DARKBROWN": "brown",
             "CHOCOLATE": "brown",
-            "RUST": "brown"
+            "RUST": "brown",
+            "FAWN": "brown"
         },
         "pattern_types": {
             "Tabby": "tabbies",

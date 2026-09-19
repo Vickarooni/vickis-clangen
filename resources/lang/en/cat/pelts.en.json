@@ -101,6 +101,10 @@
             "one": "brown",
             "many": "rusted brown"
         },
+        "FAWN": {
+            "one": "brown",
+            "many": "light brown"
+        },
         "SingleColour": "single color",
         "SingleColour_long": "%{color}",
         "TwoColour": "two color",
