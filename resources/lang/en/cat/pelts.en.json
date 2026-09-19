@@ -8,6 +8,10 @@
             "one": "white",
             "many": "two toned"
         },
+        "IVORY": {
+            "one": "pale",
+            "many": "pale ivory"
+        },
         "FULLWHITE": "white",
         "PALEGREY": {
             "one": "gray",
