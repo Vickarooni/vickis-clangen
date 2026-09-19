@@ -39,7 +39,7 @@
     "GOLDEN-BROWN": "brown",
     "DARKBROWN": "darkbrown",
     "CHOCOLATE": "darkbrown",
-    "RUST": "rust"
+    "RUST": "rust",
     "GOLDEN-BROWN": "goldenbrown",
     "DARKBROWN": "darkbrown",
     "CHOCOLATE": "chocolate"
@@ -59,7 +59,7 @@
     "lilac": ["yellow", "purple", "black", "dilute", "cooldilute", "earthydilute", "gloaming", "quartz", "denseamber", "densedust"],
     "brown": ["yellow", "purple", "black", "dilute", "cooldilute", "pinkdilute", "earthydilute", "night", "gloaming", "quartz", "denseamber", "densedust"],
     "darkbrown": ["yellow", "purple", "black", "dilute", "cooldilute", "pinkdilute", "earthydilute", "gloaming", "quartz"],
-    "rust": ["yellow", "purple", "black", "dilute", "cooldilute", "pinkdilute", "earthydilute", "gloaming", "quartz", "night"]
+    "rust": ["yellow", "purple", "black", "dilute", "cooldilute", "pinkdilute", "earthydilute", "gloaming", "quartz", "night"],
     "basic": ["gray", "red", "orange", "warmdilute"],
 
     "white": ["yellow", "purple", "blue", "dilute", "cooldilute", "darkeve", "darkpurpleeve", "purplediluteeve", "licheneve"],
