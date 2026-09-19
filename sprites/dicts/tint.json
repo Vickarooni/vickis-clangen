@@ -235,7 +235,7 @@
     "gloaming": [197, 186, 207],
     "patina": [209, 219, 208],
     "quartz": [216, 185, 186],
-    "tawny": [216, 197, 185]
+    "tawny": [216, 197, 185],
     "none": null
   },
   "dilute_tint_colours":
@@ -245,7 +245,7 @@
     "cooldilute": [7, 15, 25],
     "pinkdilute": [80, 50, 45],
     "earthydilute": [44, 33, 11],
-    "lilacdilute": [31, 25, 36]
+    "lilacdilute": [31, 25, 36],
     "none": null
   },
   "remove_tone_tint_colours":
