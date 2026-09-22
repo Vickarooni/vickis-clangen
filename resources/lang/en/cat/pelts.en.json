@@ -117,6 +117,10 @@
             "one": "brown",
             "many": "light brown"
         },
+        "FLINT": {
+            "one": "black",
+            "many": "black"
+        },
         "SingleColour": "single color",
         "SingleColour_long": "%{color}",
         "TwoColour": "two color",

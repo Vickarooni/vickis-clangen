@@ -324,6 +324,14 @@
     "Brown", "Pale", "Light", "Mouse", "Deer", "Dust", "Dusty", "Sand", "Sandy", "Bright", "Mud", "Scrub", "Velvet", "Elm", "Nut", "Fallow",
     "Hazel", "Vole", "Branch", "Warm", "Robin", "Puma", "Umber", "Tree", "Root", "Bark", "Lion", "Birch", "Cougar", "Seed", "Fawn",
     "Thrush", "Log"
+    ],
+    "FLINT": [
+    "Black", "Black", "Black", "Shade", "Shaded", "Crow", "Raven", "Ebony", "Dark", "Grackle", "Bat", "Flint", "Storm", "Skunk",
+    "Night", "Shadow", "Scorch", "Midnight", "Pepper", "Pitch", "Bat", "Burnt", "Coal", "Ink", "Inky", "Murk", "Rat", "Magpie",
+    "Char", "Charred", "Mulberry", "Evening", "Dark", "Ghost", "Mud", "Spider", "Shale", "Panther", "Starling", "Soot", "Wolf", "Badger",
+    "Raccoon", "Skulk", "Gray", "Gray", "Crow", "Stone", "Cinder", "Ash", "Ashen", "Twilight", "Panther",
+    "Smoke", "Smokey", "Shadow", "Bleak", "Rain", "Pebble", "Mist", "Misty", "Warbler", "Wisp", "Shale", "Charcoal",
+    "Flint", "Dusk", "Wolf", "Badger", "Raccoon", "Skulk"
     ]
   },
 	
@@ -426,6 +434,9 @@
     ],
       "FAWN": [
 	"root", "owl", "twig", "wood", "moth", "lion", "cougar"
+    ],
+      "FLINT": [
+	"shadow", "shade", "dusk", "coal", "ink", "bat", "cinder", "ghost", "night", "raven", "crow", "burn", "badger", "raccoon", "storm", "ash", "pebble", "rock", "stone", "boulder", "smoke"
     ]
     },
 
