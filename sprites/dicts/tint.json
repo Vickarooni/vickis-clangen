@@ -62,7 +62,7 @@
     "darkbrown": ["yellow", "purple", "black", "dilute", "cooldilute", "earthydilute", "gloaming", "quartz"],
     "rust": ["yellow", "purple", "black", "dilute", "cooldilute", "pinkdilute", "earthydilute", "gloaming", "quartz", "night"],
     "fawn": ["black", "yellow", "purple", "blue", "night", "gloaming", "dilute", "cooldilute", "quartz"],
-    "flint": ["yellow", "purple","blue", "night", "patina", "black", "dilute", "warmdilute", "cooldilute", "pinkdilute", "earthydilute", "gloaming", "quartz", "lilacdilute", "denseamber", "densedust"]
+    "flint": ["yellow", "purple","blue", "night", "patina", "black", "dilute", "warmdilute", "cooldilute", "earthydilute", "gloaming", "quartz"]
   },
   "tint_colours":
   {
