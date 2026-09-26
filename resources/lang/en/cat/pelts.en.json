@@ -97,6 +97,10 @@
             "one": "brown",
             "many": "light brown"
         },
+        "LIGHTLILAC": {
+            "one": "lilac",
+            "many": "light lilac"
+        },
         "BROWN": {
             "one": "brown",
             "many": "brown"

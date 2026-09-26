@@ -290,6 +290,9 @@
     "Hazel", "Vole", "Branch", "Warm", "Robin", "Lilac", "Lavender", "Heather", "Fawn", "Tawny", "Seed", "Nut", "Wisteria", "Wolf",
     "Log"
     ],
+    "LIGHTLILAC": [
+"Lilac", "Light", "Tree", "Tan", "Fallow", "Pale", "Mouse", "Lion"
+],
     "BROWN": [
     "Brown", "Brown", "Oak", "Mouse", "Dark", "Shade", "Russet", "Dust", "Dusty", "Mud", "Deer", "Fawn", "Doe", "Stag", "Bark", "Tawny",
     "Twig", "Owl", "Otter", "Log", "Vole", "Branch", "Hazel", "Robin", "Umber", "Tree", "Root", "Shadow", "Ochre", "Auburn", "Burnet",
@@ -396,7 +399,6 @@
       "CAMEL": [
 "camel", "sand", "desert", "dry", "dune"
 ],
-
     "HONEY": ["sun", "beam", "shine", "spark", "blaze", "honey", "honey", "flash", "bee", "lion", "cougar", "bright", "bee", "root", "bumble",
     "flower", "gorse"
     ],
@@ -424,6 +426,9 @@
     "LILAC": [
 	"flower", "heather", "dream", "dust", "lion", "cougar"
     ],
+      "LIGHTLILAC": [
+"lilac", "bark", "tree"
+],
     "BROWN": [
 	"root", "owl", "twig", "wood", "moth", "bark", "branch", "burr"
     ],
