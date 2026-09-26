@@ -202,6 +202,9 @@
     "Bleak", "Rain", "Storm", "Soot", "Pebble", "Mist", "Misty", "Heather", "Trout", "Shrike", "Plume", "Teasel", "Wolf", "Raccoon",
     "Lyre", "Rat", "Gull", "Pigeon", "Rime", "Thunder", "Shale", "Pebble", "Bluebell", "Flint", "Gravel", "Birch", "Badger"
     ],
+    "IRONGREY": [
+"Iron", "Grey", "Stone", "Boulder", "Basalt", "Pebble", "Storm", "Shadow", "Shroud", "Umbrage", "Night", "Squall", "Granite", "Black", "Char", "Rock", "Hazy", "Murk", "Murky", "Ash", "Ashen", "Cinder", "Cindered", "Smoke", "Smokey", "Charred", "Scorch", "Scorched", "Soot", "Sooty", "Burned", "Burn", "Dark"
+],
     "GREY": [
     "Gray", "Gray", "Ash", "Ashen", "Cinder", "Rock", "Stone", "Shade", "Mouse", "Smoke", "Smoky", "Shadow", "Fog", "Bone",
     "Bleak", "Rain", "Storm", "Soot", "Pebble", "Mist", "Misty", "Heather", "Trout", "Shrike", "Plume", "Teasel", "Wolf", "Raccoon",
@@ -361,6 +364,9 @@
       "SOOT": [
 	"cloud", "storm", "pool", "lake", "pebble", "rock", "stone", "boulder", "minnow", "smoke", "dust", "cinder", "badger", "raccoon"
     ],
+      "IRONGREY": [
+"stone", "boulder", "pebble", "storm", "shadow", "cloak", "shroud", "night", "squall", "leaf", "rock"
+],
     "GREY": [
 	"cloud", "storm", "pool", "lake", "pebble", "rock", "stone", "boulder", "minnow", "smoke", "dust", "cinder", "badger", "raccoon"
     ],

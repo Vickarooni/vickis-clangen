@@ -25,6 +25,10 @@
             "one": "gray",
             "many": "gray"
         },
+        "IRONGREY": {
+            "one": "dark grey",
+            "many": "iron grey"
+        },
         "GREY": {
             "one": "gray",
             "many": "gray"
