@@ -242,6 +242,9 @@
     "Honey", "Tawny", "Lion", "Dandelion", "Marigold", "Warm", "Amber", "Canary", "Daffodil", "Bright", "Tansy",
     "Buttercup", "Straw", "Glint", "Auburn", "Blazing", "Furze", "Gorse", "Oriole", "Cougar", "Wheat", "Shine", "Bee"
     ],
+    "CAMEL": [
+"Camel", "Sand", "Sandy", "Desert", "Dry", "Dune", "Dunes", "Lemon", "Yellow"
+],
     "HONEY": ["Honey", "Honey", "Sweet", "Gold", "Golden", "Yellow", "Sun", "Sunny", "Light", "Lightning", "Thunder", "Day", "Fig",
     "Tawny", "Lion", "Dandelion", "Marigold", "Warm", "Amber", "Canary", "Daffodil", "Bright", "Daisy", "Nectar", "Tansy", "Flower",
     "Buttercup", "Straw", "Glint", "Auburn", "Blazing", "Furze", "Gorse", "Oriole", "Cougar", "Wheat", "Shine", "Bee", "Bay", "Bumble",
@@ -390,6 +393,10 @@
     "GOLDEN": [
 	"sun", "beam", "shine", "spark", "blaze", "honey", "flash", "bee", "lion", "cougar", "bright", "gorse"
     ],
+      "CAMEL": [
+"camel", "sand", "desert", "dry", "dune"
+],
+
     "HONEY": ["sun", "beam", "shine", "spark", "blaze", "honey", "honey", "flash", "bee", "lion", "cougar", "bright", "bee", "root", "bumble",
     "flower", "gorse"
     ],
