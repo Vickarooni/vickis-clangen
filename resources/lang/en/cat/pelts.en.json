@@ -125,6 +125,10 @@
             "one": "brown",
             "many": "rusted brown"
         },
+        "STONEBROWN": {
+            "one": "pale brown",
+            "many": "stone brown"
+        },
         "FAWN": {
             "one": "brown",
             "many": "light brown"
