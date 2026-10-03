@@ -108,9 +108,6 @@
                     "group_name": "BACKTAILPATTERNGRAD",
                     "color": "pattern_gradient_top"
                 },
-                "3":
-                {
-                    "group_name": "BACKTAILPATTERNGRAD"
                 "4.5": {
                     "group_name": "FRONTPATTERNGRAD",
                     "color": "chinchilla_pattern_gradient_front"
